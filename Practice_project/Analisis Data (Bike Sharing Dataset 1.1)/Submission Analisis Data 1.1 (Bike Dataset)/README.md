@@ -1,5 +1,5 @@
 ## 1. File Sructures
-
+```
 Submission Analisis Data 1.1 (Bike Dataset)
 ├───Dashboard
 | ├───Processed_day_df.csv
@@ -14,7 +14,7 @@ Submission Analisis Data 1.1 (Bike Dataset)
 ├───README.md
 └───requirements.txt
 └───url.txt
-
+```
 ## 2. Project Work Cycle
 1. Prepare the Library
 2. Data Wrangling
